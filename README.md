@@ -47,43 +47,43 @@ Epiverso es una iniciativa colaborativa global liderada por data.org, que preten
 
 ### [Universos y Multiversos](https://www.youtube.com/playlist?list=PL9-E3cL2KgKnoTmIYNYmeT6zRcJrArnW2)
 
-* R-Universe: towards a unifying infrastructure and global catalog forthe wider R ecosystem	Jeroen Ooms
+* [R-Universe: towards a unifying infrastructure and global catalog forthe wider R ecosystem	Jeroen Ooms](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/32.pdf)
 
-* R-multiverse: un sistema de distribución de paquetes R de nueva generación, basado en R-Universe	William Michael Landau, Maëlle Salmon, Yanina Noemí Bellini Saibene
+* [R-multiverse: un sistema de distribución de paquetes R de nueva generación, basado en R-Universe	William Michael Landau, Maëlle Salmon, Yanina Noemí Bellini Saibene](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/2.pdf)
 
 ### [Paquetes](https://www.youtube.com/playlist?list=PL9-E3cL2KgKk3lWmDtMM_xzig9rnZ-xkl)
 
-* future.p2p: Peer-to-Peer Compute Clusters in R	Henrik Bengtsson
+* [future.p2p: Peer-to-Peer Compute Clusters in R	Henrik Bengtsson](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/56.pdf)
 
-* rcdo permite analizar datos climáticos con R, y se escribe solo	Elio Campitelli
+* [rcdo permite analizar datos climáticos con R, y se escribe solo	Elio Campitelli](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/6.pdf)
 
-* readabilityes: Cálculo reproducible de métricas de legibilidad en español	JESICA FORMOSO
+* [readabilityes: Cálculo reproducible de métricas de legibilidad en español	JESICA FORMOSO](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/14.pdf)
 
-* pRycolletion: Diverse datasets from Paraguay	Andreas Schneider
+* [pRycolletion: Diverse datasets from Paraguay	Andreas Schneider](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/30.pdf)
 
 ## [Investigación social](https://www.youtube.com/playlist?list=PL9-E3cL2KgKlJ9eTh2ML2X9wlUuoMNnhM)
 
-* Laboratorio de Investigación Social Abierta (LISA): Herramientas computacionales para la investigación social reproducible	Juan Carlos Castillo, Kevin Carrasco, René Canales, Tomás Urzúa
+* [Laboratorio de Investigación Social Abierta (LISA): Herramientas computacionales para la investigación social reproducible	Juan Carlos Castillo, Kevin Carrasco, René Canales, Tomás Urzúa](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/55.pdf)
 
-* Datos públicos, software libre y procesos sostenibles: el caso del monitoreo de transparencia en Argentina	Pablo Tiscornia, Emiliano Arena, Luciana Carpinacci, Catalina Byrne, Matías Ramiro Sumavil
+* [Datos públicos, software libre y procesos sostenibles: el caso del monitoreo de transparencia en Argentina	Pablo Tiscornia, Emiliano Arena, Luciana Carpinacci, Catalina Byrne, Matías Ramiro Sumavil](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/44.pdf)
 
-* Agendas científicas sobre desarrollo infantil: relevamiento y análisis de datos abiertos del CONICET	Federico Giovannetti, Mariana Celeste Smulski, Fernando Steeb, Florencia Altschuler
+* [Agendas científicas sobre desarrollo infantil: relevamiento y análisis de datos abiertos del CONICET	Federico Giovannetti, Mariana Celeste Smulski, Fernando Steeb, Florencia Altschuler](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/21.pdf)
 
-* Uso de R en la evaluación ex post de una política pública	Ana Acevedo, Giselle Arena, Federico Baraghian
+* [Uso de R en la evaluación ex post de una política pública	Ana Acevedo, Giselle Arena, Federico Baraghian](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/39.pdf)
 
-* Uso de R en procesos colaborativos de producción estadística y formación: la experiencia del Núcleo de Innovación Social.	Betsabe Laila Cohen, Ariana Bardauil
+* [Uso de R en procesos colaborativos de producción estadística y formación: la experiencia del Núcleo de Innovación Social.	Betsabe Laila Cohen, Ariana Bardauil](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/34.pdf)
 
 ### [Herramientas y flujos de trabajo](https://www.youtube.com/playlist?list=PL9-E3cL2KgKnDqfnkJuy7m4yz-SF8Z6h0)
 
-* Uso de ambientes reproducibles para la validación de modelos de aprendizaje estadístico. Una implementación en Docker.	Fabricio Machado
+* [Uso de ambientes reproducibles para la validación de modelos de aprendizaje estadístico. Una implementación en Docker.	Fabricio Machado](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/43.pdf)
 
-* Simplifying Scientific Data Sharing with R	Adriana Clavijo Daza, Lars Schöbitz, Prof. Dr. Elizabeth Tilley, Colin Walder, Nicolo Massari, Yash Dubey, Mian Zhong
+* [Simplifying Scientific Data Sharing with R	Adriana Clavijo Daza, Lars Schöbitz, Prof. Dr. Elizabeth Tilley, Colin Walder, Nicolo Massari, Yash Dubey, Mian Zhong](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/53.pdf)
 
-* blockr universe: un ecosistema abierto para workflows y análisis de datos sin código	Nicolas Bennett, David Granjon, Christoph Sax, Angelica Becerra
+* [blockr universe: un ecosistema abierto para workflows y análisis de datos sin código	Nicolas Bennett, David Granjon, Christoph Sax, Angelica Becerra](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/49.pdf)
 
-* Mejor código, sin esfuerzos, sin siquiera IA	Maëlle Salmon, Hugo Gruson, Etienne Bacher
+* [Mejor código, sin esfuerzos, sin siquiera IA	Maëlle Salmon, Hugo Gruson, Etienne Bacher](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/3.pdf)
 
-8 Automatizando la Ciencia Abierta con R: Generación de Plantillas Quarto para la Gestión de Software de Investigación	Patricia Loto
+8 [Automatizando la Ciencia Abierta con R: Generación de Plantillas Quarto para la Gestión de Software de Investigación	Patricia Loto](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/50.pdf)
 
 ### [Comunidades](https://www.youtube.com/playlist?list=PL9-E3cL2KgKnCyjBIsXbo6h_FbzARZX45)
 
@@ -95,25 +95,25 @@ Epiverso es una iniciativa colaborativa global liderada por data.org, que preten
 
 ### [Modelos](https://www.youtube.com/playlist?list=PL9-E3cL2KgKnYOaLdpSNeS-fHEoEBlHzT)
 
-* Diagnóstico de influencia en regresión ridge usando la distancia de Fréchet	Felipe Osorio
+* [Diagnóstico de influencia en regresión ridge usando la distancia de Fréchet	Felipe Osorio](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/8.pdf)
 
-* Imputación reproducible de series temporales con tidyverse y tidymodels	Francisca Muñoz Narbona, Stephanie Orellana
+* [Imputación reproducible de series temporales con tidyverse y tidymodels	Francisca Muñoz Narbona, Stephanie Orellana](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/47.pdf)
 
-* Actitudes hacia la Estadística en  Estudiantes Adultos: Un Análisis  Bayesiano con el Modelo de Respuesta  Graduada en R	Enver Tarazona Vargas
+* [Actitudes hacia la Estadística en  Estudiantes Adultos: Un Análisis  Bayesiano con el Modelo de Respuesta  Graduada en R	Enver Tarazona Vargas](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/37.pdf)
 
-* Confiabilidad Interevaluador: psych::ICC vs. Modelos de Efectos Mixtos	Francisco Cardozo
+* [Confiabilidad Interevaluador: psych::ICC vs. Modelos de Efectos Mixtos	Francisco Cardozo](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/26.pdf)
 
 ### [Aplicaciones 1](https://www.youtube.com/playlist?list=PL9-E3cL2KgKl2au6OA_40eJ0gS1VMBg9P)
 
-* Modelando decisiones de localización empresarial en la Frontera Norte de México con análisis de supervivencia en R	Diego Alejandro Sánchez Rodríguez
+* [Modelando decisiones de localización empresarial en la Frontera Norte de México con análisis de supervivencia en R	Diego Alejandro Sánchez Rodríguez](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/46.pdf)
 
-* Funciones Aplicadas a Vectores en Analisis Cuantitativo: revision depagos sociales del ministerio de haciend de Costa Rica	Roberto Delgado Castro
+* [Funciones Aplicadas a Vectores en Analisis Cuantitativo: revision depagos sociales del ministerio de haciend de Costa Rica	Roberto Delgado Castro](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/5.pdf)
 
-* Introducción a la evaluación cuantitativa de la política medio ambiental: Una propuesta de Input-Output multi país con R	Kamal Antonio Romero Sookoo, José Manuel Maneiro Jurjo
+* [Introducción a la evaluación cuantitativa de la política medio ambiental: Una propuesta de Input-Output multi país con R	Kamal Antonio Romero Sookoo, José Manuel Maneiro Jurjo](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/11.pdf)  
 
-* Flujos de entrada y salida de la pobreza en hogares durante el periodo 2023-2024 con diagramas de Sankey	Veronica Herrero Zamora
+* [Flujos de entrada y salida de la pobreza en hogares durante el periodo 2023-2024 con diagramas de Sankey	Veronica Herrero Zamora](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/16.pdf)
 
-* ¿Quién se queda, quién se va? Estudio longitudinal sobre rotación de profesores y cambios políticos en las escuelas chilenas (2007-2024)	Dany López González, Alessandra Diaz Sacco, Macarena Salas Aguayo, Diego Carrasco, Bernardita Tornero Ochagavia
+* [¿Quién se queda, quién se va? Estudio longitudinal sobre rotación de profesores y cambios políticos en las escuelas chilenas (2007-2024)	Dany López González, Alessandra Diaz Sacco, Macarena Salas Aguayo, Diego Carrasco, Bernardita Tornero Ochagavia](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/36.pdf)
 
 ### [Aplicaciones 2](https://www.youtube.com/playlist?list=PL9-E3cL2KgKmrc9E3V6PtEUq3ajURhVkd)
 
