@@ -107,11 +107,11 @@ Epiverso es una iniciativa colaborativa global liderada por data.org, que preten
 
 * Modelando decisiones de localización empresarial en la Frontera Norte de México con análisis de supervivencia en R	Diego Alejandro Sánchez Rodríguez
 
-* FUNCIONES APLICADAS A VECTORES EN ANÁLISIS CUANTITATIVO: REVISIÓN DE PAGOS SOCIALES DEL MINISTERIO DE HACIENDA DE COSTA RICA	Roberto Delgado Castro
+* Funciones Aplicadas a Vectores en Analisis Cuantitativo: revision depagos sociales del ministerio de haciend de Costa Rica	Roberto Delgado Castro
 
 * Introducción a la evaluación cuantitativa de la política medio ambiental: Una propuesta de Input-Output multi país con R	Kamal Antonio Romero Sookoo, José Manuel Maneiro Jurjo
 
-* FLUJOS DE ENTRADA Y SALIDA DE LA POBREZA EN HOGARES DURANTE EL PERÍODO 2023-2024 CON DIAGRAMAS DE SANKEY	Veronica Herrero Zamora
+* Flujos de entrada y salida de la pobreza en hogares durante el periodo 2023-2024 con diagramas de Sankey	Veronica Herrero Zamora
 
 * ¿Quién se queda, quién se va? Estudio longitudinal sobre rotación de profesores y cambios políticos en las escuelas chilenas (2007-2024)	Dany López González, Alessandra Diaz Sacco, Macarena Salas Aguayo, Diego Carrasco, Bernardita Tornero Ochagavia
 
